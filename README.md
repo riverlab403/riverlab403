@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hey, I'm riverlab403
 
-<!--
-**riverlab403/riverlab403** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS student based in Munich. Currently balancing university coursework with personal projects around systems programming and small automation tools.
 
-Here are some ideas to get you started:
+### What I do
+- Low-level systems and memory management stuff (mostly C++ and C)
+- Coursework projects and OOP design patterns in Java
+- Quick CLI tools, data parsers, and utilities in Python
+- Living in the Linux terminal and keeping my Git history readable
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Stack
+- **Languages:** Python, Java, C++, Bash
+- **Tools:** Git, Linux, GCC/Clang, VS Code
+
+### Contact
+- Reach out via email: riverlab403@proton.me
+- Feel free to open an issue or PR on any public repo here
